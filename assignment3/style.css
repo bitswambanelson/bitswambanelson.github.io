@@ -1,0 +1,42 @@
+body{
+backgrond-image:url("cogn.jpg")
+backgroundnd-repeat:repeat-x;
+background-attachment:scroll;
+background-size:cover;
+background-position:right;
+
+}
+
+a:hover{
+	background-color:yellow;
+	font-size:150%;
+	
+}
+h1{
+	
+text-align:center;color:blue;border-color:tomato;
+margin:10px;padding:10px;
+border-radius:10px;	border-style:solid;
+}
+p{
+text-align:center;color:white;font-size:50px;	
+background-color:tomato;margin:10px;
+padding:40px;	
+}
+.sol{
+	text-align:center;color:white;font-size:50px;	
+background-color:tomato;margin:10px;
+padding:40px;	
+	
+	
+}
+.nic{
+	
+text-align:left;color:white;font-size:50px;	
+background-color:blue;margin:10px;
+padding:40px;	
+
+	
+}
+
+
