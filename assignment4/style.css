@@ -1,0 +1,19 @@
+
+	.nav navbar-nav{
+        list-style-type: none;
+         margin: opx;
+         padding: 0px;
+
+	}
+
+	.nav navbar-nav{
+		width: 100%;
+    height:100vh;
+      background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(myimg/nelyy.jpg) ;
+	  background-size: cover;
+      background-position:center;
+	}	
+	li a {
+display: inline-block;
+	}	
+		
