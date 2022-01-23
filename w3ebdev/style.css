@@ -1,0 +1,61 @@
+/*{
+    width: 16px;
+    height: 10px;
+}*/
+
+.baner{
+    width: 100%;
+    height:100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(myimg/nelyy.jpg);
+    background-size: cover;
+    background-position:center;
+}
+.content{
+    width:100%;
+     position:absolute;
+     top:50%;
+     transform: translateY(-50%);
+    text-align:center;
+    color:darkorange;
+}
+.content h1{
+    font-size: 75px;
+}
+.content p{
+    font-size: 75px;
+    color: darkorange;
+}
+.detail{
+    width: 100%;
+    position: absolute;
+    bottom:0px ;
+    transform: translateY(-50%);
+    text-align: center;
+    color: darkorange;
+  }
+  
+.toyota{
+    margin-top: 100px;
+}
+.toyota img {
+    width:100%;
+
+}
+.icon-bar{
+background-color: darkorange;
+}
+.container{
+    text-align: center;
+}
+.container:hover{
+background-color:rgba(15, 2, 2, 0.897) ;
+    color:orange;
+}
+
+.footer{
+    background-color: rgba(15, 2, 2, 0.897);
+    color: orange;
+    text-align: center;
+    bottom: opx;
+    height: 100%;
+}
